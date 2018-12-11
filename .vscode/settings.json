@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/2e5f9dae-187b-4eeb-9730-935847ecf289/resourceGroups/myazuretest/providers/Microsoft.Web/sites/fcgazuretest",
+  "appService.deploySubpath": "src"
+}
